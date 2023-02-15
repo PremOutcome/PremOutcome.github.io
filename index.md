@@ -9,8 +9,7 @@
 </script>
 </head> 
 
-
-# POD - Preterm Outcome Dashboard  <img src="https://user-images.githubusercontent.com/112888625/218990756-a1af8988-6508-4f71-95dc-2870c3b97ff9.jpg" width="175" align="right"/>
+# Preterm Outcome Dashboard  <img src="https://user-images.githubusercontent.com/112888625/218990756-a1af8988-6508-4f71-95dc-2870c3b97ff9.jpg" width="175" align="right"/>
 
 
 ## Mortality and respiratory outcomes 
