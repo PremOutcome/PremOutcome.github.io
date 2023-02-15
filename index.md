@@ -1,123 +1,34 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Preterm Outcome Dashboard  <img src="https://user-images.githubusercontent.com/112888625/218990756-a1af8988-6508-4f71-95dc-2870c3b97ff9.jpg" width="175" align="right"/>
 
 
-### Definition lists can be used with HTML syntax.
+## Mortality and respiratory outcomes 
+Online dashboard developed by researchers from the [University of Nottingham](https://www.nottingham.ac.uk/medicine/about/childhealthobsgyn/index.aspx) using Microsoft Power BI and National Neonatal Research Database data presented in the following publication(s). 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- Link to paper (xxx)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+>To view the dashboard in **full-screen**, click the  &nbsp; <img src="https://user-images.githubusercontent.com/112888625/218993541-4e58cd8c-251b-45d6-8e15-e0b5b9baf2d5.jpg" width="175"/>  &nbsp; icon at the **bottom right** of the Power BI report.
+><br>
+>To print the **summary data** for the infant characteristcs selected, click the  &nbsp; <img src="https://user-images.githubusercontent.com/112888625/218990769-b29e83e4-6139-4120-b619-b6f98fd71399.jpg" width="25"/>  &nbsp; icon to view the summary data followed by Ctr + P or Command + P to print from your web browser. 
 
-```
-The final element.
-```
+<iframe title="BPD death 060922" width="750" height="466.9" src="https://app.powerbi.com/view?r=eyJrIjoiNzczMGQ0NTItZDRmNi00Yzk5LWI4MzEtODlhMmY4MmEyNWY1IiwidCI6IjY3YmRhN2VlLWZkODAtNDFlZi1hYzkxLTM1ODQxODI5MGExZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+<br/>
+
+
+# Disclaimer 
+
+All reasonable efforts were taken to ensure that the information contained in this dashboard is accurate at this time. The dashboard has been developed for use by qualified healthcare professionals. Users should exercise independent professional judgement and consider individual clinical situations when using this dashboard. 
+
+We make no representation, provide no express warranty or guarantee, and exclude all liability and any implied warranties (whether implied by statute or otherwise) in connection with its use. We shall not be held responsible for any act or omission which may result in the death and/or disability of any baby, infant or child as a result of reliance on this dashboard.
+
+<br/>
+
+# Privacy statement
+No clinical information from using the dashboard is collected. IP address and other analytics information are collected for monitoring usage statistics and tailoring 
+
+<br/>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/112888625/218807173-0d2e40f3-aedf-4537-a0eb-d49088581036.jpg" width="350"/> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://user-images.githubusercontent.com/112888625/218807688-f16f4f45-d449-4ccf-90c0-bdbce8e7a990.jpg" width="350" />
+</p>
