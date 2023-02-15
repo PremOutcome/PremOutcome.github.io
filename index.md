@@ -1,3 +1,14 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CJC5KZW4NR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-CJC5KZW4NR');
+</script>
+</head> 
+
 # Preterm Outcome Dashboard  <img src="https://user-images.githubusercontent.com/112888625/218990756-a1af8988-6508-4f71-95dc-2870c3b97ff9.jpg" width="175" align="right"/>
 
 
