@@ -2,8 +2,6 @@
 title: "Preterm Outcome Dashboard"
 author: "Tng"
 date: "`r Sys.Date()`"
-
-
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VM0VS4QB2P"></script>
