@@ -4,12 +4,12 @@ author: "Tng"
 date: "`r Sys.Date()`"
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VM0VS4QB2P"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CJC5KZW4NR"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-VM0VS4QB2P');
+  gtag('config', 'G-CJC5KZW4NR');
 </script>
 
 
