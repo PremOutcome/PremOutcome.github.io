@@ -15,7 +15,7 @@
 ## Mortality and respiratory outcomes 
 Online dashboard developed by researchers from the [University of Nottingham](https://www.nottingham.ac.uk/medicine/about/childhealthobsgyn/index.aspx) using Microsoft Power BI and National Neonatal Research Database data presented in the following publication(s). 
 
-- Link to paper (xxx)
+- [Respiratory management and outcomes in high-risk preterm infants with development of a population outcome dashboard](http://dx.doi.org/10.1136/thorax-2023-220174)
 
 >To view the dashboard in **full-screen**, click the  &nbsp; <img src="https://user-images.githubusercontent.com/112888625/218993541-4e58cd8c-251b-45d6-8e15-e0b5b9baf2d5.jpg" width="175"/>  &nbsp; icon at the **bottom right** of the Power BI report.
 ><br>
