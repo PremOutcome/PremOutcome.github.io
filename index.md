@@ -42,11 +42,4 @@ No clinical information from using the dashboard is collected. IP address and ot
 <img src="https://user-images.githubusercontent.com/112888625/218807173-0d2e40f3-aedf-4537-a0eb-d49088581036.jpg" width="155"/> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://user-images.githubusercontent.com/112888625/218807688-f16f4f45-d449-4ccf-90c0-bdbce8e7a990.jpg" width="155" />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="![Leicester logo](https://github.com/PremOutcome/PremOutcome.github.io/assets/125360702/2d8736a8-571a-4d36-94b7-97de8fe1f9d0)"
- width="155"/> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/112888625/218807688-f16f4f45-d449-4ccf-90c0-bdbce8e7a990.jpg" width="155" />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/112888625/218807688-f16f4f45-d449-4ccf-90c0-bdbce8e7a990.jpg" width="155" />
 </p>
