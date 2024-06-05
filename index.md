@@ -44,10 +44,10 @@ No clinical information from using the dashboard is collected. IP address and ot
 &nbsp; &nbsp;
 <img src="https://user-images.githubusercontent.com/112888625/218807688-f16f4f45-d449-4ccf-90c0-bdbce8e7a990.jpg" height="50" />
 &nbsp; &nbsp; 
-<img src="https://github.com/PremOutcome/PremOutcome.github.io/blob/4bfdb5fac09153222a5b5c36be1e1ebf997edf0d/docs/Leicester%20logo.jpg"
+<img src="docs/Leicester logo.jpg"
  height="50"/> 
 &nbsp; &nbsp; 
-<img src="https://github.com/PremOutcome/PremOutcome.github.io/blob/4bfdb5fac09153222a5b5c36be1e1ebf997edf0d/docs/NIHR%20logo%20use.png" height="50" />
+<img src="docs/NIHR logo use.png" height="50" />
 &nbsp; &nbsp; 
-<img src="https://github.com/PremOutcome/PremOutcome.github.io/blob/4bfdb5fac09153222a5b5c36be1e1ebf997edf0d/docs/Bliss%20logo.png" height="50" />
+<img src="docs/Bliss logo.png" height="50" />
 </p>
