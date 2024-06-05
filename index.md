@@ -13,9 +13,10 @@
 
 
 ## Mortality and respiratory outcomes 
-Online dashboard developed by researchers from the [University of Nottingham](https://www.nottingham.ac.uk/medicine/research/research-areas/perinatal-and-child-health/index.aspx) using Microsoft Power BI and National Neonatal Research Database data presented in the following publication(s). 
+Online dashboard developed by researchers from the [University of Nottingham](https://www.nottingham.ac.uk/medicine/research/research-areas/perinatal-and-child-health/index.aspx) and [University of Leicester](https://le.ac.uk/timms) using Microsoft Power BI and National Neonatal Research Database data presented in the following publication(s). 
 
 - [Respiratory management and outcomes in high-risk preterm infants with development of a population outcome dashboard](http://dx.doi.org/10.1136/thorax-2023-220174)
+- [Paediatric intensive care admissions of preterm children born <32 weeks gestation: a national retrospective cohort study using data linkage](https://fn.bmj.com/content/fetalneonatal/109/3/265.full.pdf)
 
 >To view the dashboard in **full-screen**, click the  &nbsp; <img src="https://user-images.githubusercontent.com/112888625/218993541-4e58cd8c-251b-45d6-8e15-e0b5b9baf2d5.jpg" width="175"/>  &nbsp; icon at the **bottom right** of the Power BI report.
 ><br>
@@ -39,7 +40,14 @@ No clinical information from using the dashboard is collected. IP address and ot
 <br/>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/112888625/218807173-0d2e40f3-aedf-4537-a0eb-d49088581036.jpg" width="155"/> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/112888625/218807688-f16f4f45-d449-4ccf-90c0-bdbce8e7a990.jpg" width="155" />
+<img src="https://user-images.githubusercontent.com/112888625/218807173-0d2e40f3-aedf-4537-a0eb-d49088581036.jpg" height="50"/> 
+&nbsp; &nbsp;
+<img src="https://user-images.githubusercontent.com/112888625/218807688-f16f4f45-d449-4ccf-90c0-bdbce8e7a990.jpg" height="50" />
+&nbsp; &nbsp; 
+<img src="https://github.com/PremOutcome/PremOutcome.github.io/assets/125360702/2d8736a8-571a-4d36-94b7-97de8fe1f9d0.jpg"
+ height="50"/> 
+&nbsp; &nbsp; 
+<img src="https://github.com/PremOutcome/PremOutcome.github.io/assets/125360702/61e5deff-169d-47ff-bc61-d072f74313c5.jpg" height="50" />
+&nbsp; &nbsp; 
+<img src="https://github.com/PremOutcome/PremOutcome.github.io/assets/125360702/ae438677-86fa-45b6-8484-f13d4ce0677d.jpg" height="50" />
 </p>
